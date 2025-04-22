@@ -1,12 +1,29 @@
-# React + Vite
+# 📝 Todo List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, clean, and fast **Todo List App** built using **Vite** and **React.js**. This application allows users to add, delete, and mark tasks as completed. It's a lightweight productivity tool to manage your daily goals with ease.
 
-Currently, two official plugins are available:
+🚀 **Live Demo**: [https://todo-list-application778.netlify.app/](https://todo-list-application778.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add new tasks
+- 🗑️ Delete existing tasks
+- ✔️ Mark tasks as completed
+- 🔄 Automatically updates task list in real-time
+- 📱 Responsive design (mobile-friendly)
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ **React.js** (Vite)
+- 🎨 **CSS / TailwindCSS** (Optional)
+- 🔄 **useState**, **useEffect** hooks
+- ⚡ **Vite** for fast development and build
+
+---
+
+## 📁 Project Structure
+
